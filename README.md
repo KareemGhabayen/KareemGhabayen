@@ -2,18 +2,16 @@
 
 # ⚡ Kareem Ghabayen
 ### **Computer Science Student | Python & AI Developer**
-**Specializing in Data-Driven Solutions & Predictive Modeling**
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0055ff&height=150&section=header&text=Engineering%20Data%20into%20AI&fontSize=35&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&section=header&text=Building%20Intelligent%20AI%20Solutions&fontSize=30&fontColor=00d4ff&animation=twinkling" width="100%"/>
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-ghabayen-976886383/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kareemghabayen.github.io/Website-Front-end/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareemghabayen12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-ghabayen-976886383/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://kareemghabayen.github.io/Website-Front-end/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kareemghabayen12@gmail.com)
 
 </div>
----
 
 ### 🚀 Performance & Technical Expertise
 An expert impression is built on **metrics**. Here is the core of my technical workflow:
