@@ -1,13 +1,17 @@
 <div align="center">
 
+<div align="center">
+
 # ⚡ Kareem Ghabayen
 ### **Computer Science Student | Python & AI Developer**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&section=header&text=Building%20Intelligent%20AI%20Solutions&fontSize=30&fontColor=00d4ff&animation=twinkling" width="100%"/>
 
 <br />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-ghabayen-976886383/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kareemghabayen12@gmail.com)
+
 </div>
 
 ### 🚀 Performance & Technical Expertise
