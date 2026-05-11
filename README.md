@@ -3,7 +3,7 @@
 # ⚡ Kareem Ghabayen
 ### **Computer Science Student | Python & AI Developer**
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0055ff&height=150&section=header&text=Specializing%20in%20Predictive%20Analytics%20%26%20Intelligent%20System%20Architecture&fontSize=22&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0055ff&height=150&section=header&text=Specializing%20in%20AI%20%26%20Data%20Science&fontSize=25&animation=fadeIn" width="100%" />
 
 <br />
 
@@ -12,9 +12,7 @@
 
 <br />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.app?font=Fira+Code&size=25&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=Building+Intelligent+AI+Solutions...;Crafting+Advanced+Data+Models...;Engineering+Predictive+Analytics..." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=Building+Intelligent+AI+Solutions...;Crafting+Advanced+Data+Models...;Engineering+Predictive+Analytics..." alt="Typing SVG" />
 
 </div>
 
