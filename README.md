@@ -28,20 +28,16 @@
 
 ---
 
-### 📊 Coding Activity
+---
+
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KareemGhabayen&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KareemGhabayen&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KareemGhabayen&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KareemGhabayen&layout=compact&theme=tokyonight" width="45%" />
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnB3ZzRyeGZqZnd4eGZnd3hnd3hnd3hnd3hnd3hnd3hndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1QHUR4Ypg7B1fW0/giphy.gif" width="500" />
-</div>
-
----
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Solving%20problems%20one%20line%20of%20code%20at%20a%20time." />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
