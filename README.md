@@ -1,11 +1,11 @@
 <div align="center">
 
-# ⚡ Kareem Ghabayen
+#  Kareem Ghabayen
 ### **Computer Science Student | Python & AI Developer**
 
 <br />
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnB3ZzRyeGZqZnd4eGZnd3hnd3hnd3hnd3hnd3hnd3hndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1QHUR4Ypg7B1fW0/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnB3ZzRyeGZqZnd4eGZnd3hnd3hnd3hnd3hnd3hnd3hndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1QHUR4Ypg7B1fW0/giphy.gif" width="600" />
 
 <br />
 
@@ -51,9 +51,3 @@ An expert impression is built on **metrics**. Here is the core of my technical w
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJndnB3ZzRyeGZqZnd4eGZnd3hnd3hnd3hnd3hnd3hnd3hndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1QHUR4Ypg7B1fW0/giphy.gif" width="600" />
 </div>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20goal%20is%20to%20turn%20data%20into%20information,%20and%20information%20into%20insight." />
-</p>
