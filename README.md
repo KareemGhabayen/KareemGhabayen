@@ -1,11 +1,11 @@
 <div align="center">
 
-<div align="center">
-
 # ⚡ Kareem Ghabayen
 ### **Computer Science Student | Python & AI Developer**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&section=header&text=Building%20Intelligent%20AI%20Solutions&fontSize=30&fontColor=00d4ff&animation=twinkling" width="100%"/>
+<br />
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnB3ZzRyeGZqZnd4eGZnd3hnd3hnd3hnd3hnd3hnd3hndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1QHUR4Ypg7B1fW0/giphy.gif" width="100%" />
 
 <br />
 
