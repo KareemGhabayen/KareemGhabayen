@@ -11,7 +11,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kareemghabayen12@gmail.com)
 
 </div>
-
 ---
 
 ### 💻 Technical Profile
