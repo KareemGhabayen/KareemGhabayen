@@ -35,19 +35,20 @@ An expert impression is built on **metrics**. Here is the core of my technical w
 </div>
 
 ---
+---
 
 ### 📊 System Activity & Language Distribution
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KareemGhabayen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KareemGhabayen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KareemGhabayen&show_icons=true&theme=tokyonight&hide_border=false" width="48%" alt="Kareem's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KareemGhabayen&layout=compact&theme=tokyonight&hide_border=false" width="45%" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📽️ Interactive Preview
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJndnB3ZzRyeGZqZnd4eGZnd3hnd3hnd3hnd3hnd3hnd3hndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1QHUR4Ypg7B1fW0/giphy.gif" width="600" />
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnB3ZzRyeGZqZnd4eGZnd3hnd3hnd3hnd3hnd3hnd3hndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1QHUR4Ypg7B1fW0/giphy.gif" width="600" />
+</p>
 
 ---
 
