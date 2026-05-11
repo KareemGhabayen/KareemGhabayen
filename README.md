@@ -1,26 +1,37 @@
-# Hi there, I'm Kareem Ghabayen 👋
+<div align="center">
 
+# Kareem Ghabayen
 ### 4th-Year Computer Science Student | Python & AI Developer
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Building%20Intelligent%20Solutions&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
 
-### 🛠️ Tech Stack & Skills
-- **Languages:** Python (Primary), Java, C++, SQL, JavaScript.
-- **AI & Data Science:** Predictive Modeling (Linear Regression), EDA, Data Cleaning.
-- **Web Development:** HTML5, CSS3, Responsive Design.
+![Developer Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnB3ZzRyeGZqZnd4eGZnd3hnd3hnd3hnd3hnd3hnd3hndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1QHUR4Ypg7B1fW0/giphy.gif)
 
 ---
 
-### 📊 Practical Highlights
-- **Predictive Modeling:** Built a Boston housing price estimator with **R²: 0.7427**.
-- **Data Engineering:** Expert in handling missing values, duplicates, and **IQR outlier detection**.
-- **Front-End:** Developed interactive and clean user interfaces.
+### 🚀 Technical Expertise & Impact
+**AI & Data Science:** Predictive Modeling with **Linear Regression** (Achieved **R²: 0.7427**) 
+**Data Engineering:** Skilled in **EDA**, Missing Value Imputation, and **IQR Outlier Detection**
+**Web Development:** Crafting responsive and interactive Front-End experiences
 
 ---
 
-### 📈 My GitHub Stats
-![Kareem's Stats](https://github-readme-stats.vercel.app/api?username=KareemGhabayen&show_icons=true&theme=dark&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KareemGhabayen&layout=compact&theme=dark&hide_border=false)
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,mysql,github,vscode&theme=dark" />
+</p>
+
 ---
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/kareem-ghabayen-250720253/)
+### 📈 My GitHub Journey
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KareemGhabayen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kareem's Stats" />
+</p>
+
+---
+
+### 🔗 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-ghabayen-976886383/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareemghabayen12@gmail.com)
+
+</div>
