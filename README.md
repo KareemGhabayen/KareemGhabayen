@@ -19,9 +19,8 @@
 ---
 
 ### 📈 My GitHub Stats
-![Kareem's Stats](https://github-readme-stats.vercel.app/api?username=KareemGhabayen&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KareemGhabayen&layout=compact&theme=tokyonight&hide_border=true)
-
+![Kareem's Stats](https://github-readme-stats.vercel.app/api?username=KareemGhabayen&show_icons=true&theme=dark&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KareemGhabayen&layout=compact&theme=dark&hide_border=false)
 ---
 
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/kareem-ghabayen-250720253/)
