@@ -21,12 +21,6 @@
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,mysql,github,vscode&theme=dark" />
 </p>
 
----
-
-### 📈 My GitHub Journey
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KareemGhabayen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kareem's Stats" />
-</p>
 
 ---
 
