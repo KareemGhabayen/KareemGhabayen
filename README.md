@@ -34,19 +34,3 @@ An expert impression is built on **metrics**. Here is the core of my technical w
 | **Tools** | `MySQL` `GitHub` `VS Code` `Jupyter Notebooks` |
 
 </div>
-
----
-
-### 📊 **(DYNAMIC)** GitHub Activity & Language Distribution
-This section is automatically updated based on my activity on GitHub.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KareemGhabayen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Kareem's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KareemGhabayen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="45%" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20goal%20is%20to%20turn%20data%20into%20information,%20and%20information%20into%20insight." />
-</p>
