@@ -3,6 +3,10 @@
 # Hi, I'm Kareem Ghabayen 👋
 
 <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Python+%26+AI+Developer;Specializing+in+Predictive+Analytics;Building+Intelligent+System+Architecture" alt="Typing SVG" />
+</a>
+
+<a href="https://git.io/typing-svg">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0055ff&height=150&section=header&text=Transforming%20Data%20into%20Intelligence&fontSize=35&animation=fadeIn&fontAlignY=35" width="100%" /></a>
 
 <br />
