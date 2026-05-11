@@ -24,30 +24,18 @@
 An expert impression is built on **metrics**. Here is the core of my technical workflow:
 
 * **Machine Learning Architecture:** Specialized in **Linear Regression** and Gradient Descent optimization. Achieved a verified **$R^{2}$ score of 0.7427** on real estate predictive models.
-  
 * **Data Integrity (EDA):** Rigorous preprocessing pipeline including **IQR-based Outlier Detection**, multi-variate analysis, and strategic missing value imputation.
-  
 * **Web Developer:** Architecting responsive front-end systems with high-performance Vanilla JS and modern CSS layouts.
 
 ---
 
 ### 🛠️ Advanced Tech Stack
-<div align="center">
 
 | Domain | Technologies |
 | :--- | :--- |
 | **AI & Analysis** | `Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Seaborn` |
 | **Development** | `Java` `C++` `SQL` `JavaScript` `HTML5` `CSS3` |
 | **Tools** | `MySQL` `GitHub` `VS Code` `Jupyter Notebooks` |
-
-</div>
-
----
-
-### 📽️ Interactive Preview
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnB3ZzRyeGZqZnd4eGZnd3hnd3hnd3hnd3hnd3hnd3hndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1QHUR4Ypg7B1fW0/giphy.gif" width="600" />
-</p>
 
 ---
 
