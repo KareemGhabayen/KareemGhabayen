@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Kareem Ghabayen 👋
+# Hi , I'm Kareem Ghabayen 👋
 ### **Computer Science Student | Python & AI Developer**
 **Specializing in Predictive Analytics & Intelligent System Architecture**
 
@@ -17,8 +17,10 @@
 An expert impression is built on **metrics**. Here is the core of my technical workflow:
 
 * **Machine Learning Architecture:** Specialized in **Linear Regression** and Gradient Descent optimization. Achieved a verified **$R^{2}$ score of 0.7427** on real estate predictive models.
+  
 * **Data Integrity (EDA):** Rigorous preprocessing pipeline including **IQR-based Outlier Detection**, multi-variate analysis, and strategic missing value imputation.
-* **Web Engineering:** Architecting responsive front-end systems with high-performance Vanilla JS and modern CSS layouts.
+  
+* **Web Developer:** Architecting responsive front-end systems with high-performance Vanilla JS and modern CSS layouts.
 
 ---
 
@@ -29,7 +31,7 @@ An expert impression is built on **metrics**. Here is the core of my technical w
 | :--- | :--- |
 | **AI & Analysis** | `Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Seaborn` |
 | **Development** | `Java` `C++` `SQL` `JavaScript` `HTML5` `CSS3` |
-| **Tools** | `Git` `GitHub` `VS Code` `Jupyter Notebooks` |
+| **Tools** | `MySQL` `GitHub` `VS Code` `Jupyter Notebooks` |
 
 </div>
 
@@ -42,15 +44,6 @@ This section is automatically updated based on my activity on GitHub.
   <img src="https://github-readme-stats.vercel.app/api?username=KareemGhabayen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Kareem's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KareemGhabayen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="45%" alt="Top Languages" />
 </p>
-
----
-
-### 🎬 **(DYNAMIC)** Interactive Skill Preview
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=Building+Intelligent+AI+Solutions...;Crafting+Data+Driven+Insights...;Engineering+Predictive+Analytics..." alt="Typing SVG" />
-  </a>
-</div>
 
 ---
 
