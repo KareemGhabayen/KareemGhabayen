@@ -1,9 +1,8 @@
 <div align="center">
 
 # ⚡ Kareem Ghabayen
-### **Computer Science Student | Python & AI Developer**
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0055ff&height=150&section=header&text=Specializing%20in%20AI%20%26%20Data%20Science&fontSize=25&animation=fadeIn" width="100%" />
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00d4ff&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Python+%26+AI+Developer;Data+Driven+Innovator" alt="Typing SVG" />
 
 <br />
 
@@ -12,7 +11,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=Building+Intelligent+AI+Solutions...;Crafting+Advanced+Data+Models...;Engineering+Predictive+Analytics..." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0055ff&height=120&section=header&text=Predictive%20Analytics%20%26%20Intelligent%20Systems&fontSize=22&animation=fadeIn" width="100%" />
 
 </div>
 
