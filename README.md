@@ -23,7 +23,7 @@ An expert impression is built on **metrics**. Here is the core of my technical w
 
 * **Machine Learning Architecture:** Specialized in **Linear Regression** and Gradient Descent optimization. Achieved a verified **$R^{2}$ score of 0.7427** on real estate predictive models.
 * **Data Integrity (EDA):** Rigorous preprocessing pipeline including **IQR-based Outlier Detection**, multi-variate analysis, and strategic missing value imputation.
-* **Web Engineering:** Architecting responsive front-end systems with high-performance Vanilla JS and modern CSS layouts.
+* **Web Development:** Architecting responsive front-end systems with high-performance Vanilla JS and modern CSS layouts.
 
 ---
 
